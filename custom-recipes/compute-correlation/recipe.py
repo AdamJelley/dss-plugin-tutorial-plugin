@@ -39,7 +39,7 @@ threshold = get_recipe_config()['threshold']
 #############################
 # Your original recipe
 #############################
-print('test')
+
 # -*- coding: utf-8 -*-
 import dataiku
 import pandas as pd, numpy as np
